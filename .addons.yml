@@ -1,0 +1,7 @@
+---
+channel: stable
+addons:
+  plex:
+    repository: CooperRS/addon-plex
+    target: plex
+    image: ghcr.io/CooperRS/addon-plex/{arch}
